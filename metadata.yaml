@@ -1,0 +1,23 @@
+_repo: Thieves-Wit_57236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Footner, Hulbert
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '6601'
+    url: http://www.gutenberg.org/2009/agents/6601
+    wikipedia: http://www.xs4all.nl/~embden11/Engels5/footner.htm
+description: ''
+gutenberg_issued: '2018-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thieves' Wit
+url: http://www.gutenberg.org/ebooks/57236
